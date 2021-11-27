@@ -2,13 +2,14 @@
 * 15分足を使用して分析を行いました｡
 * 最初のモデルは､'buy','sell','stay'の3つの行動を予測した上でのシミュレーションの儲けのグラフ
 
-![sell_buy_stay](https://user-images.githubusercontent.com/61785070/143690143-59eae384-4b1b-440a-bf47-2013805ee4a6.png)
+![111](https://user-images.githubusercontent.com/61785070/143691493-8741de63-dede-4929-8792-22560e99ac51.png)
+
 
 * 次のモデルは､'sell','buy'の2つの行動を予測した上でのシミュレーションの儲けのグラフ
 
 ![sell_buy](https://user-images.githubusercontent.com/61785070/143690141-fb4cabc4-a616-4b3f-8fe6-fe41c62798c2.png)
 
-儲けの数値としても､最初の3つの行動を予測したモデルのほうが2倍近く高い
+儲けの数値としても､最初の3つの行動を予測したモデルのほうが高い
 
 考察：ビットコイン自体､上がり相場なので多少精度が悪くてもbuyでエントリーさえしてれば儲けがかなり生まれるのだと思います｡
 
