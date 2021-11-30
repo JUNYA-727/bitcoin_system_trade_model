@@ -43,6 +43,7 @@ Tensorflowの方もoptimizerやネットワークの組み方等で精度が向�
 
 # Data Informations
 データはBTC/USDで15分足を使用する｡
+
 [データの取得に使用したサイト](https://www.youtube.com/watch?v=iYd_ez8LPas&ab_channel=KuramochiJunya)
 
 # Installation
